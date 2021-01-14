@@ -1,4 +1,5 @@
 # Steps to install Angular #
+# And create a Calculator app # 
 
 npm install @angular/cli
 ng new example-calculator (example_calculator), y/N/CSS
